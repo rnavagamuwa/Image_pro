@@ -1,0 +1,55 @@
+c:\users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\bin\Debug\ImagePro.exe.config
+c:\users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\obj\Debug\ImagePro.csprojResolveAssemblyReference.cache
+c:\users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\obj\Debug\ImagePro.Form1.resources
+c:\users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\obj\Debug\ImagePro.Properties.Resources.resources
+c:\users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\obj\Debug\ImagePro.csproj.GenerateResource.Cache
+c:\users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\bin\Debug\ImagePro.exe
+c:\users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\bin\Debug\ImagePro.pdb
+c:\users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\obj\Debug\ImagePro.exe
+c:\users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\obj\Debug\ImagePro.pdb
+C:\Users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\bin\Debug\ImagePro.exe.manifest
+C:\Users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\bin\Debug\ImagePro.application
+C:\Users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\obj\Debug\ImagePro.exe.manifest
+C:\Users\randika\documents\visual studio 2013\Projects\ImagePro\ImagePro\obj\Debug\ImagePro.application
+D:\UOM\S5\IP\ImagePro\ImagePro\bin\Debug\ImagePro.exe.config
+D:\UOM\S5\IP\ImagePro\ImagePro\bin\Debug\ImagePro.exe.manifest
+D:\UOM\S5\IP\ImagePro\ImagePro\bin\Debug\ImagePro.application
+D:\UOM\S5\IP\ImagePro\ImagePro\bin\Debug\ImagePro.exe
+D:\UOM\S5\IP\ImagePro\ImagePro\bin\Debug\ImagePro.pdb
+D:\UOM\S5\IP\ImagePro\ImagePro\bin\Debug\system.web.mvc.dll
+D:\UOM\S5\IP\ImagePro\ImagePro\bin\Debug\System.Windows.dll
+D:\UOM\S5\IP\ImagePro\ImagePro\obj\Debug\ImagePro.Form1.resources
+D:\UOM\S5\IP\ImagePro\ImagePro\obj\Debug\ImagePro.Properties.Resources.resources
+D:\UOM\S5\IP\ImagePro\ImagePro\obj\Debug\ImagePro.csproj.GenerateResource.Cache
+D:\UOM\S5\IP\ImagePro\ImagePro\obj\Debug\ImagePro.exe.manifest
+D:\UOM\S5\IP\ImagePro\ImagePro\obj\Debug\ImagePro.application
+D:\UOM\S5\IP\ImagePro\ImagePro\obj\Debug\ImagePro.exe
+D:\UOM\S5\IP\ImagePro\ImagePro\obj\Debug\ImagePro.pdb
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\ImagePro.exe.config
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.exe
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.pdb
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\ImagePro.exe.manifest
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\ImagePro.application
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\ImagePro.exe
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\ImagePro.pdb
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.csprojResolveAssemblyReference.cache
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.Form1.resources
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.Properties.Resources.resources
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.csproj.GenerateResource.Cache
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.exe.manifest
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.application
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\Interop.Shell32.dll
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.csproj.ResolveComReference.cache
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\AForge.dll
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\AForge.Imaging.dll
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\AForge.Math.dll
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\AForge.xml
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\AForge.Imaging.xml
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\AForge.Math.xml
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.resize.resources
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.histogram_form.resources
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.ImageInfo.resources
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\bin\Debug\System.Windows.dll
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.customFilter.resources
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.Run_Length.resources
+D:\UOM\S5\IP\ImagePro\Source files\ImagePro\obj\Debug\ImagePro.Huffman.resources
